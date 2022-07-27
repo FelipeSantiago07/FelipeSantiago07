@@ -1,4 +1,4 @@
-Eu sou Felipe Santiago , estou estudando programação para se torna um progrmador front end 
+Eu sou Felipe Santiago , estou estudando programação para se torna um programador front end 
 :relaxed:
 <br> 
 Atualmente estou estudando e desenvolvendo projetos com as seguintes tecnologias ;
